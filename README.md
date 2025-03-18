@@ -1,6 +1,7 @@
 # HR
 
 You can upload the dataset to SQL using the link I shared.
+*First load the ceratedataset file, then the insertdata file.
 
 You can solve these questions to practice:
 
